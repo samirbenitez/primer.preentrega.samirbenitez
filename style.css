@@ -1,0 +1,23 @@
+body{
+    background-image: url(./img/img.fondo.jpg);
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    
+}
+
+
+p {
+    font-weight: 900;
+}
+
+input {
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+}
